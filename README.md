@@ -13,3 +13,5 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+Token address: https://rinkeby.etherscan.io/address/0x853f0d3153c1c22B3Daa2f5D1AAFd25DDb8932A2
